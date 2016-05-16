@@ -1,6 +1,6 @@
 # site-skeleton
 Just a simple skeleton for making web sites with HTML, CSS, &amp; jQuery
-This skeleton site uses [HTML5 Boilerplate|https://html5boilerplate.com/] & Jonathan Verrecchia's [Initializr|http://www.initializr.com/] [Mobile-First CSS template|http://verekia.com/initializr/responsive-template/]
+This skeleton site uses [HTML5 Boilerplate](https://html5boilerplate.com/) & Jonathan Verrecchia's [Initializr](http://www.initializr.com/) [Mobile-First CSS template](http://verekia.com/initializr/responsive-template/)
 
 ## Usage
 
