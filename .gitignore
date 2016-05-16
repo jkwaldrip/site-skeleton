@@ -1,0 +1,2 @@
+# Always ignore NodeJS modules
+node_modules/
